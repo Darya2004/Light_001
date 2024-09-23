@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Vessa_Head
+  m_Shader: {fileID: 4800000, guid: a670c24144097594a92220b3bae480f5, type: 3}
+  m_ValidKeywords:
+  - _SKINBLENDMODE_SCREEN
+  - _SOURCE_SPECULARALPHA
+  m_InvalidKeywords:
+  - _ENABLESKINTONE_ON
+  - _EXCLUDEUSETRANSLUCENCYALPHA_ON
+  - _LIGHTINTENSITYTOGGLE_ON
+  - _NORMALMAP
+  - _SPECGLOSSMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 09409f09a33b38940a48389e7edad66a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: a513a4b94875abd49b49bc4ae68d9eeb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 639f00296df3d5f4d8690746f9f1decc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 2800000, guid: 55dffcbe723b83847922371a9bdd4063, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 2800000, guid: 8f3eaf8aee23e0848b411969ce7ff01e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TranslucencyMapMaskA:
+        m_Texture: {fileID: 2800000, guid: ee7545ea7442a554886b989791a85d33, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TranslucencyMapRMaskA:
+        m_Texture: {fileID: 2800000, guid: 47948c5aea2bf854894139f68f66866c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TranslucencymapMaskA:
+        m_Texture: {fileID: 2800000, guid: ee7545ea7442a554886b989791a85d33, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _AmbientTranslucency: 0
+    - _AmbientTranslucency1: 0.1
+    - _AoIntensity: 1
+    - _Brightness: 1
+    - _BumpScale: 1
+    - _ContrastSkin: 1.5
+    - _ContrastTranslucency: -0.89
+    - _Cutoff: 0.5
+    - _DesaturateAmbientTranslucency: 0.505
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _EmissionIntensity: 0.988
+    - _EnableSkinTone: 1
+    - _ExcludeUseTranslucencyAlpha: 1
+    - _FresnelBias: 0.026
+    - _FresnelIntensity: 0
+    - _Fresnelpower: 3
+    - _GlossMapScale: 0.385
+    - _Glossiness: 0.828
+    - _GlossyReflections: 1
+    - _InvertABaseColor: 0
+    - _InvertABaseColor1: 0
+    - _InvertTranslucencyAlpha: 0
+    - _InvertTranslucencyMap: 0
+    - _LightAttenuationTranslucency: 0
+    - _LightIntensityToggle: 1
+    - _MaskTranslucency: 0
+    - _Mode: 0
+    - _NormalTranslucency: 0
+    - _OcclusionStrength: 0
+    - _Parallax: 0
+    - _Power: 3.64
+    - _SaturateTraslucency: 2
+    - _Saturation: 0
+    - _Scattering: 4.12
+    - _SkinBlend: 0.514
+    - _SkinBlendMode: 0
+    - _SkinFill: 1
+    - _SmoothnessTextureChannel: 0
+    - _Source: 0
+    - _SpecularHighlights: 1
+    - _SpecularIntensity: 2
+    - _SpreadTranslucency: 0.405
+    - _SrcBlend: 1
+    - _StrengthTranslucency: 1
+    - _ThicknessTranslucency: 0
+    - _TranslucencyIntensity: 1
+    - _UVSec: 0
+    - _VisualizeTranslucency: 0
+    - _ZWrite: 1
+    - __dirty: 1
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _GlobalXYTilingXYZWOffsetXY: {r: 1, g: 1, b: 0, a: 0}
+    - _SkinTone: {r: 1, g: 0.31840813, b: 0, a: 0}
+    - _SpecColor: {r: 0.21698111, g: 0.21698111, b: 0.21698111, a: 1}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 0}
+    - _TranslucencyColor: {r: 0.3201932, g: 1, b: 0.30588233, a: 1}
+  m_BuildTextureStacks: []
